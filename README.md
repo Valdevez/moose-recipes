@@ -1,1 +1,1 @@
-# moose-recipes
+This is my odin project assignment, making a basic recipe page and linking them back and forth.

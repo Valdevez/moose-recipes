@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background: #eeee;
+    font-size: 18px;
+}
+
+.card {
+    background: #fff;
+    width: 600px;
+    margin: 16px auto;
+    padding: 6px;
+}
+
+.title {
+    background: #e8c7ff;
+    text-align: center;
+    padding: 8px;
+}
+
+.intro {
+    background: #e8c7ff;
+    padding: 8px;
+}
+
+.link-list a {
+    display: inline;
+    background-color: #9a6fb7;
+    color: black;
+    text-decoration: none;
+    padding: 1em 2em;
+    margin: 16px 20px;
+}
+
+.link-list a:hover {
+    background-color: #cda6e8;
+    color: black;
+}
+
+.cope {
+    display: block;
+    background: #e8c7ff;
+    padding: 8px;
+    margin: 16px auto;
+}
+
+.pirata {
+    display: block;
+    margin: 0px, auto;
+    text-align: center;
+}
+
+.recipeheader {
+    text-align: center;
+    padding: 8px;
+}
+
+.recipe-page {
+    margin-left: 200px;
+    margin-right: 300px;
+}
+
+.recipeimage {
+    display:block;
+    margin: 16px auto;
+}
+
+.explanation {
+    margin-top: 50px;
+}
+
+.middle {
+    display: block;
+    margin: 8px auto;
+}
